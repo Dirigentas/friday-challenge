@@ -1,1 +1,14 @@
-@import url('<link href='https:; //fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>')
+@import url('<link href='https:; //fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>');
+
+:root {
+    --maincolor: ##e5e5e5;
+    --secondarycolor: ##02577a;
+}
+
+body {
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
+}
