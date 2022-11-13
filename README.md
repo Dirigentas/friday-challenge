@@ -1,7 +1,5 @@
 # Friday Challenge
 
-_40 group website project_
-
 Site published at: [GitHub pages](https://dirigentas.github.io/friday_challenge/)
 
 Design: [Coming Soon](https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Challenge?node-id=607%3A688)
