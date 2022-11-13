@@ -2,7 +2,7 @@
 
 Site published at: [GitHub pages](https://dirigentas.github.io/friday_challenge/)
 
-Design: [Coming Soon](https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Challenge?node-id=607%3A688)
+Design: [Figma](https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Challenge?node-id=607%3A688)
 
 ## Project features
 
